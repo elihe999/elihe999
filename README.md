@@ -14,8 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/elihe999">
-    <img src="https://github-readme-stats.vercel.app/api?username=elihe999&count_private=true&show_icons=true&theme=vue"
-      alt="Logo" style="width: 100vw;height: 400px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=elihe999&count_private=true&show_icons=true&theme=vue" alt="Logo" />
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elihe999&layout=compact&hide=Assembly" alt="elihe999" />
 </p>
