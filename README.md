@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on GS
+- 🌱 I’m currently learning Frontend and PHP
+- 😄 I’m currently interesting IT career planning at frontend and backend path
+
 <!--
 **elihe999/elihe999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
