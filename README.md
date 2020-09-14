@@ -17,49 +17,27 @@
     <img src="https://github-readme-stats.vercel.app/api?username=elihe999&count_private=true&show_icons=true&theme=vue"
       alt="Logo" style="width: 100vw;height: 400px" />
   </a>
-</p>
-
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elihe999&layout=compact&hide=Assembly" alt="elihe999" />
 </p>
 
 <p align="left">
-  <h3>Software Language</h3>
-  <p align="left">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40" />
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" />
     <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
     <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40" />
     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-  </p>
-</p>
-<br>
-<div>
-  <h5 align="left">Framework :</h5>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30" />
     <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" />
     <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" />
     <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
-</div>
-<br>
-
-<div>
-  <h5 align="left">Database :</h5>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg"
-    alt="redis" width="40" height="40" />
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
     <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-</div>
-<br>
 
-<div>
-  <h6 align="left">Also know :</h6>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"
-    width="40" height="40" />
-</div>
-<br>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+</p>
 
 <!--
 **elihe999/elihe999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
