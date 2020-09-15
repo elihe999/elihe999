@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Yili HE. You can call me ELI.
 
 - 🔭 I’m currently working on GS
 - 🌱 I’m currently learning Frontend and PHP
