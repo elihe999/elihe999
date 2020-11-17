@@ -4,6 +4,12 @@
 - 🌱 I’m currently learning Frontend and PHP
 - 😄 I’m currently interesting IT career planning at frontend and backend path
 
+Frontend:
+Basic JS/HTML/CSS3, Vue/React UI framework. Know how to use webpack and other frontend engineering tools. Nodejs.
+
+Backend:
+PHP: Swoole, Laravel and Codelgniter. Composer and LAMP tech-stack. Nginx with lua.
+
 <p align="center" style="font-size: 20px">
   <br />
   ·
