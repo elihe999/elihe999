@@ -34,12 +34,14 @@ PHP: Swoole, Laravel and Codelgniter. Composer and LAMP tech-stack. Nginx with l
   <a href="https://github.com/elihe999">
     <img src="https://github-readme-stats.vercel.app/api?username=elihe999&count_private=true&show_icons=true&theme=vue" alt="Logo" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elihe999&layout=compact&hide=Assembly" alt="elihe999" />
+    <br />
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elihe999&layout=compact&hide=Assembly" alt="elihe999" />
+  </a>
+  <a>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elihe999)](https://github.com/anuraghazra/github-readme-stats)
+  </a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elihe999)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=elihe999)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40" />
