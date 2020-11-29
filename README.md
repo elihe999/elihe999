@@ -38,10 +38,9 @@ PHP: Swoole, Laravel and Codelgniter. Composer and LAMP tech-stack. Nginx with l
   <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elihe999&layout=compact&hide=Assembly" alt="elihe999" />
   </a>
-  <a>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elihe999)](https://github.com/anuraghazra/github-readme-stats)
-  </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elihe999)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40" />
