@@ -2,13 +2,15 @@
 
 - 🔭 I’m currently working on GS
 - 🌱 I’m currently learning Frontend and PHP
-- 😄 I’m currently interesting IT career planning at frontend and backend path
+- 😄 I’m currently interesting IT career planning at software engineering.
 
 Frontend:
 Basic JS/HTML/CSS3, Vue/React UI framework.Webpack and other frontend engineering tools. Nodejs.
 
 Backend:
-PHP: Swoole, Laravel and Codelgniter. Composer and LAMP tech-stack. Nginx with lua.
+PHP: Swoole, Laravel and Codelgniter. Composer and LAMP tech-stack.
+Other: C++, Go, Nodejs, Python
+
 
 <p align="center" style="font-size: 20px">
   <br />
