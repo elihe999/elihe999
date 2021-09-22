@@ -23,19 +23,19 @@ Other: C++, Go, Nodejs, Python
 <p align="center">
   <a href="https://github.com/elihe999">
     <img src="https://github-readme-stats.vercel.app/api?username=elihe999&count_private=true&show_icons=true&theme=vue" alt="Logo" />
-  </a>
-    <br />
-  <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elihe999&layout=compact&hide=Assembly" alt="elihe999" />
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" /> 
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" />
@@ -44,6 +44,9 @@ Other: C++, Go, Nodejs, Python
   <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="ionic" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40" />
+  
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40" />
+  
 </p>
 
 <!--
