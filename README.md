@@ -9,7 +9,11 @@ Basic JS/HTML/CSS3, Vue/React UI framework.Webpack and other frontend engineerin
 
 Backend:
 PHP: Swoole, Laravel and Codelgniter. Composer and LAMP tech-stack.
-Other: C++, Go, Nodejs, Python
+
+Database:
+MySQL, Redis, Memcache performance Tuning.
+
+Other: C++, Go, Nodejs, Python, Nginx
 
 
 <p align="center" style="font-size: 20px">
@@ -44,7 +48,7 @@ Other: C++, Go, Nodejs, Python
   <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="ionic" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40" />
-  
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40" />
   
 </p>
