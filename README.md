@@ -26,8 +26,8 @@ Other: C++, Go, Nodejs, Python, Nginx
 
 <p align="center">
   <a href="https://github.com/elihe999">
-    <img src="https://github-readme-stats.vercel.app/api?username=elihe999&count_private=true&show_icons=true&theme=vue" alt="Logo" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elihe999&layout=compact&hide=Assembly" alt="elihe999" />
+    <img src="https://github-readme-stats.vercel.app/api?username=elihe999&count_private=true&show_icons=true&theme=vue" alt="Logo" width="450" height="330" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elihe999&layout=compact&hide=Assembly" alt="elihe999" width="450" height="300" />
   </a>
 </p>
 
