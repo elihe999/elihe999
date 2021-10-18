@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Yili HE. You can call me ELI.
 
-- 🔭 I’m currently working on GS
-- 🌱 I’m currently learning Frontend and PHP
+- 🔭 I’m currently working on Big Data Develop Team
+- 🌱 I’m currently learning Big Data and PHP
 - 😄 I’m currently interesting IT career planning at software engineering.
 
 Frontend:
