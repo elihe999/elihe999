@@ -5,16 +5,19 @@
 - 😄 I’m currently interesting IT career planning at software engineering.
 
 Frontend:
-Basic JS/HTML/CSS3, Vue/React UI framework.Webpack and other frontend engineering tools. Nodejs.
+Basic JS/HTML/CSS3, Vue/React UI framework.Webpack and other frontend engineering tools.
 
 Backend:
-PHP: Swoole, Laravel and Codelgniter. Composer and LAMP tech-stack.
+PHP: Swoole, Hyperf, Laravel and Codelgniter. Composer and LAMP/LNMP tech-stack.
 
 Database:
-MySQL, Redis, Memcache performance Tuning.
+MySQL, Postgres, Clickhouse, DM, Kingbase
 
-Other: C++, Go, Nodejs, Python, Nginx
-
+Other:
+Redis, Memcache.
+C++, Go, Python
+SaltStack
+Consul, Nacos
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elihe999&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elihe999&theme=github)
@@ -37,6 +40,12 @@ Other: C++, Go, Nodejs, Python, Nginx
 </p>
 
 <p align="center">
+  <img 
+    src="https://vectorwiki.com/images/D9eMt__clickhouse.svg" alt="clickhouse" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/consulio/consulio-icon.svg" alt="consul" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/apache_zookeeper/apache_zookeeper-icon.svg" alt="zookeeper" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" alt="minioio" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" /> 
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="40" height="40" />
