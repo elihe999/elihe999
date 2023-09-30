@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Big Data and PHP
 - 😄 I’m currently interesting IT career planning at software engineering.
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=elihe999&theme=dark)](https://git.io/streak-stats)
+
 Frontend:
 Basic JS/HTML/CSS3, Vue/React UI framework.Webpack and other frontend engineering tools.
 
